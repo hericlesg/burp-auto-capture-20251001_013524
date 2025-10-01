@@ -1,0 +1,23 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:31:17 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+X-App-Trace-Id: 8h6f37j249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: BINDCARD3
+X-Elapsed-Time: 17
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9AIVhBxtnAixP628tHAKLrUmgbzBKIGpGrORGqT%2FGdNwAnUJNcYEKl0WAStsVfMVTsLYofznK0mQFEW9BmksZnJU%2Fm%2FDEL%2FuHBojoX96"}]}
+Cf-Ray: 987833190beaa184-GRU
+
+{"success":true,"value":{"maxTransactionTimes":99,"transactionApplyTimes":null,"successfulTransactionTimes":0,"remainingTransactionTimes":99,"remainingVirtualTransactionTimes":null,"lastTime":null,"lastIP":null,"amountLimit":"99999999","payee":null,"againWithdrawLimit":null,"totalWithdrawCount":null,"maxWithdrawal":49999,"minWithdrawal":50,"remainingWithdrawAmount":99999999,"remainingVirtualWithdrawAmount":null,"remainingEWalletWithdrawAmount":null,"maxCardCount":2,"dailyWithdrawFreeCount":0,"remainingWithdrawFreeCount":0,"bankCards":[],"virtualWallets":[],"eWallets":[],"bindCardSettings":[{"merchantCode":"mexjomxnf6","withdrawCardCount":1,"hourDifferenceRequired":0},{"merchantCode":"mexjomxnf6","withdrawCardCount":2,"hourDifferenceRequired":0}],"virtualWalletBindSettings":[],"ewalletBindSettings":[],"normalDeleteBankCard":"N","virtualDeleteBankCard":null,"ewalletDeleteBankCard":null,"maxVirtualWalletCount":3,"maxEWalletCount":2,"cpfNumber":null,"totalWithdrawSuccessCount":0,"fullBankCardList":[],"fullVirtualWalletList":[],"fullEWalletList":[],"fullSortedCardList":[],"remainingBankCardCount":2,"remainingVirtualWalletCount":3,"idNumber":null}}
