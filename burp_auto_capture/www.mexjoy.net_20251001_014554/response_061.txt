@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 04:28:49 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+X-App-Trace-Id: y7efmv6249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: REG3
+X-Elapsed-Time: 119
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G%2FkJ6QJHe9fXAHlRHw8u%2F4Fn4z55AQZhydEJyzYCPupQ0uOWTvglktGhwiaYhuaDpbvexZLz9xjvlOwVPaj7fzAYgF3LcUIHTxR9J4mt"}]}
+Cf-Ray: 987937259f0fca93-GIG
+
+{"success":true,"value":{"mobileNum":null,"thirdPartyUserInfo":null,"paymentCount":0,"status":false,"firstTimeLogin":true,"passwordExpired":false,"loginUuid":"3","customerType":0,"device":"WEB","userAgent":"WEB","count":0,"token":"acf3d8f3-8341-429b-8c0d-80150500f8ef","userName":"5560217419","id":336097765,"type":1}}
