@@ -1,0 +1,17 @@
+HTTP/2 204 No Content
+Date: Wed, 01 Oct 2025 01:24:28 GMT
+Content-Type: application/json
+Server: cloudflare
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NJwTZ%2BVxXJpSv10YI69DrQbWOkyEufNyovCEgjjO6Xo2GEfhqcZkoVfMZZNgu7RoPrYWyI7z9AnsM4i2XzgL5GSBShgcZf26xDae%2BA%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Cf-Ray: 98782919080e0a7a-GIG
+
