@@ -1,0 +1,13 @@
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 01 Oct 2025 01:23:33 GMT
+Connection: upgrade
+Access-Control-Allow-Credentials: true
+Upgrade: websocket
+Sec-WebSocket-Accept: tax5oB41ib+YZjz1nxK16jWAvb0=
+Vary: Origin
+cf-cache-status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 987827c3ed43db90-GRU
+
