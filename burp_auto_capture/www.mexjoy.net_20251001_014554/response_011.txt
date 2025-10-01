@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:23:29 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+X-App-Trace-Id: 2v857p6249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: MEMCLUB3
+X-Elapsed-Time: 10
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lgG7N5iP1Fe4gtq8gpSFfflZHGVSxulffq69bqATRJRqPDezTKH57dL%2Fgo3tFZkA5zBItNRy%2BvSxIr%2BAJ7rMAlHm5QXixVNf%2FVwo7A%3D%3D"}]}
+Cf-Ray: 987827ab3a2b00e5-GRU
+
+{"success":true,"value":{"customerId":336049584,"currentPlayerRankLabelId":839188,"playerRankName":"VIP0","rankColor":null,"rankColor2":null,"currentPlayerRankMaintenance":0,"playerRankProgress":{"labelId":839199,"ranklevel":"2","rankColor":"rgba(179,188,200,1)","rankColor2":"rgba(241,249,255,1)","conditionType":"AND","condition":{"dailyDeposit":{"expected":"-","actual":"-","enabled":"N"},"monthlyDeposit":{"expected":"-","actual":"-","enabled":"N"},"totalDeposit":{"expected":"50","actual":"0","enabled":"Y"},"totalDepositCount":{"expected":"-","actual":"-","enabled":"N"},"monthlyTurnover":{"expected":"-","actual":"-","enabled":"N"},"totalTurnover":{"expected":"50","actual":"0","enabled":"Y"}},"demoteConditionType":"OR","demoteCondition":{"demoteMonthlyDeposit":{"expected":null,"actual":"0","enabled":null},"demoteMaintenance":{"expected":null,"actual":"0","enabled":null}}},"currentProgress":{"completedConditions":0,"totalExpectedConditions":2,"completedDemoteConditions":0,"totalExpectedDemoteConditions":0}}}
