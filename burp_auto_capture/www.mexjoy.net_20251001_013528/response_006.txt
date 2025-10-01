@@ -1,0 +1,23 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:23:29 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+X-App-Trace-Id: pctkird249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: REWCEN3
+X-Elapsed-Time: 2
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2EfKzIHJZL9ix5ThzMDY0yeJlhM82d1cV5b%2BYk6qJqyH7CxlAX0v4pWP97nrX0HjIxo2r1PhCF8FhkmTxB3lvfE8ShEuwM4gQ4L4cg%3D%3D"}]}
+Cf-Ray: 987827aa194800e5-GRU
+
+{"success":true,"value":{"vendorEvent":[{"eventId":2404,"eventType":1,"iconUrl":"https://images.6440949940.com/dev-images/GCS_VENDOR_EVENT_IMAGE_ICON/2404?t=1758685073136","interactType":"WINDOW","eventUrl":null,"newsTickerOn":0,"countdownDate":1759248000000,"startDate":1759287600000,"endDate":1761879600000,"title":"Torneo de tarjetas ganadoras exclusivas de TaDa","content":"<p>&iexcl;&Uacute;nete al Torneo Diario de Slots y gana incre&iacute;bles premios con Win Card!<br />\nDel 1 de octubre de 2025, 03:00 al 31 de octubre de 2025, 03:00 (GMT+0).<br />\n&iexcl;Gira ahora y consigue tu gran victoria en TaDa Games!</p>\n\n<p>\uD83D\uDC49 Para m&aacute;s detalles, por favor consulta la <a href=\"https://history.tadagaming.com/event/TaDaTCGMexico1001\"><strong>p&aacute;gina del evento</strong></a></p>","imageUrl":"https://images.6440949940.com/dev-images/GCS_VENDOR_EVENT_POPUP_IMAGE/2404_ES?t=1758685073466","eventGameList":[{"vassalage":"TA","gameName":"Gemas de la Fortuna 500","iconUrl":"https://images.6440949940.com/TCG_GAME_ICONS/TA/EN/TA0172.png","nodeId":194211,"gameId":"TA0172","sourceType":8,"appNewWindow":0},{"vassalage":"TA","gameName":"Jaguar de la Suerte 2","iconUrl":"https://images.6440949940.com/TCG_GAME_ICONS/TA/EN/TA0160.png","nodeId":194199,"gameId":"TA0160","sourceType":8,"appNewWindow":0},{"vassalage":"TA","gameName":"Gemas de la Fortuna 2","iconUrl":"https://images.6440949940.com/TCG_GAME_ICONS/TA/EN/TA0101.png","nodeId":179439,"gameId":"TA0101","sourceType":8,"appNewWindow":0},{"vassalage":"TA","gameName":"Monedas de la Fortuna","iconUrl":"https://images.6440949940.com/TCG_GAME_ICONS/TA/ES/TA0153.png","nodeId":192636,"gameId":"TA0153","sourceType":8,"appNewWindow":0}],"sort":1}]}}
