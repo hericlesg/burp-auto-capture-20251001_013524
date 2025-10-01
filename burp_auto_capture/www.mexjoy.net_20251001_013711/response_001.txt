@@ -1,0 +1,23 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:23:14 GMT
+Content-Type: application/json; charset=UTF-8
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+X-Module-Id: AFFMAN3, AFFCODE3
+X-Robots-Tag: noindex,nofollow
+X-App-Trace-Id: kkpfm0p249
+X-Error-Code: invalid_affiliate_params
+X-Elapsed-Time: 22
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MhKKcoIDN0Qkp0MoL%2FtvNxEt6UFKEtJBMJMot6fcu0X9fvISzEjwXYXlKfekQvmBZcBHITVITLk8uXACfreDw58jTHDl6yLcH2WpGQ%3D%3D"}]}
+Cf-Ray: 9878274cb88400e5-GRU
+
+{"success":false,"errorCode":"invalid_affiliate_params","message":"URL de afiliado no vÃ¡lida, comunÃ­quese con el servicio de atenciÃ³n al cliente. (#768-kkpfm)"}
