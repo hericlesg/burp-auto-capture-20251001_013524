@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:23:30 GMT
+Content-Type: application/json;charset=UTF-8
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Access-Control-Allow-Credentials: true
+Vary: Origin
+Access-Control-Allow-Origin: https://www.mexjoy.net
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 987827af3d7e4d35-GRU
+
+{"entropy":745881364,"origins":["*:*"],"cookie_needed":true,"websocket":true}
