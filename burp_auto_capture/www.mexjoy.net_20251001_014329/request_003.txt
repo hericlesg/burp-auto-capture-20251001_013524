@@ -1,0 +1,21 @@
+PUT /wps/member/register HTTP/2
+Host: www.mexjoy.net
+Cookie: SHELL_deviceId=1e68bcd3-8522-4962-bd4b-10949ecdffea
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.mexjoy.net/
+Content-Type: application/json
+Encryption: 8cfa2adc4b23632e23b728caf885f6856cf31096bc6252844f75d4df8127a79475950de2661b0cf783fabbf0785733fa18c3d057a7710e855173428bc774c093f36a68906fddd1e117c28e02596d466723666ba9b28041a8dd045cb9787f9c198a9b9b5bfbe3eeac53fcb98f962350979a9d2d51e4fc0aa6b625284ab9113676
+Merchant: mexjomxnf6
+Device: web
+Language: ES
+Content-Length: 652
+Origin: https://www.mexjoy.net
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+{"value":"iZfwG+u7GX47HAPUUL0hyqxiJkymtyYCFRNqidTzwMss0DIAzXqEeXbjQzLWZLjNKQEqpI7z+SlGAkv+WAqfTLUusyLf9dLGirMVFH2NF236w7OWh4RejKYJvKcElHucyHcI5w+zdbjP5BKFxQGLkZeRL3Z+uuYuo/tMMK1nTlcBdWQ0YWGIdD9x5mMTtJUH+LlDqtm7yPlSfvkFkUo+z+9QxYylcC7s2rVI/Wx15nPMR5hcODJ3aMU8hQ1oQxd2xmIPulb7xQ/iOqKCjkkqM+z5B5SjobjuvkIeldFU+v/AxJPrbDjrFKsk58v18heNlsuHV99xXBQCszctqjPLbnFnHSee1V/AJ1d7DJ/MsGtg80O8Oeha1UAPHerT+5cmhe7sqi7wIU3/P112fpkPoVBZqXKvS2/mq5EXKaM9wmcBS+f/97k66YTm+eqwFbW+bw/5p/Nd3Iqr3VgC4X2FD41kDMAMgFAt4bMKHlr+2z8cPRgBBhx0EgiUT8VS4mF0P/otcPpRgiTiZ0F1bwq5h5FmziKikNro/m9C9hWAaesu4+zkkHavdO7eR7aQTZGvVYtCwJ8v6fIJPC2tYB4/MZ55GibnmHy9VoILaHtiOPfINnnteiTZyamAowamzuRP"}
