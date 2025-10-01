@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251001_014722", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/socket.838193934.com_20251001_014722/request_001.txt", 
+      "url": "https://socket.838193934.com:443/rtmsg/info?t=1759281810502", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/socket.838193934.com_20251001_014722/response_001.txt", 
+      "timestamp": 1759281811416
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/socket.838193934.com_20251001_014722/request_002.txt", 
+      "url": "https://socket.838193934.com:443/rtmsg/854/5flqltf3/websocket", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/socket.838193934.com_20251001_014722/response_002.txt", 
+      "timestamp": 1759281814729
+    }
+  ], 
+  "host": "socket.838193934.com", 
+  "total_requests": 2
+}
