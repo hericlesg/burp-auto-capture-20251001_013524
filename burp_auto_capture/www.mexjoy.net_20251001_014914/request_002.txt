@@ -1,0 +1,15 @@
+GET /wps/session/key/rsa?t=1759281808761 HTTP/2
+Host: www.mexjoy.net
+Cookie: SHELL_deviceId=1e68bcd3-8522-4962-bd4b-10949ecdffea
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.mexjoy.net/
+Cache-Control: no-cache
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+Te: trailers
+
