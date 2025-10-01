@@ -1,0 +1,23 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:24:07 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+X-App-Trace-Id: ekuyzae249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: FREEPLAY3, COMM3
+X-Elapsed-Time: 20
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HPRjHldcQotewiVhdaYjTl4YNO%2B3JbUilRzQQeA5JwCw87Ev%2B5zQx9oNvt5t6im0ned%2BzpWNqPaF%2F4AzbIgcimS7P%2BYBiHDfCxz8MknB"}]}
+Cf-Ray: 98782897fc5de2bb-GIG
+
+{"success":true,"value":{"id":336049584,"account":"7505437662","regDate":1759281808000,"nickname":null,"lastLogin":1759281808000,"payee":null,"type":0,"token":"4c5a6afb-6014-472e-978a-42383d0e9b95","city":null,"address":null,"zipcode":null,"email":null,"memberLabel":[{"labelId":819191,"labelName":"default","labelType":"6","customerId":336049584,"createdAt":1759281814000,"updatedAt":1759281814000,"accountCreationType":"ALL"}],"qq":null,"mobile":"750543****","wechat":null,"facebook":null,"line":null,"whatsapp":null,"idNumber":null,"telegram":null,"twitter":null,"viber":null,"idVerificationStatus":"N","countryDialingCode":"52","zalo":null,"birthday":null,"lastLoginIp":null,"lastLoginLocation":"-","mobileVerified":false,"bindGA":false,"toUpline":0,"clubLabel":{"customerId":336049584,"labelId":839188,"labelName":"VIP0","totalDeposit":null,"totalBet":null,"totalBetDown":null,"color":null,"color2":null,"type":"AUTO","rankLevel":1,"groupCount":14},"language":"ES","gender":null,"maritalStatus":null,"idType":null,"sourceOfIncome":null,"occupation":null,"permanentAddress":null,"placeOfBirth":null,"nationality":null,"region":null,"isOfficialAppLogin":false,"registerSource":"DIRECT","registerMethod":"USERNAME"}}
