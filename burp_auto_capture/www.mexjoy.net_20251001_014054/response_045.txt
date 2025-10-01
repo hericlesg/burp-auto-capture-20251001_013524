@@ -1,0 +1,23 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:31:24 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+X-App-Trace-Id: 4finsbm249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: REWCEN3
+X-Elapsed-Time: 6
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XSApJxil9A1jqZ0cIhwmHDkLIo9YZfvOZeD2r3ik2MZnXNTly0mnq5tpWPVxgGZaOYtxX0wufYm6ZFr94NFwfl%2BQfDFlq3LtgQy8l175"}]}
+Cf-Ray: 98783340698bf173-GRU
+
+{"success":true,"value":[{"id":5487201,"merchantCode":"mexjomxnf6","name":"Â¡Participa en la promociÃ³n diaria de MEXJOY!","description":"<p>â» Participantes: Todos los miembros de Mexjoy</p>\n\n<p>â» Fecha del evento: 1 de agosto de 2024</p>\n\n<p>Actividad:</p>\n\n<p>Para obtener el bono de inicio de sesi&oacute;n de Mexjoy &nbsp;, debes iniciar sesi&oacute;n y realizar apuestas todos los d&iacute;as. Tanto si eres un nuevo miembro como un miembro antiguo, si inicias sesi&oacute;n durante 30 d&iacute;as consecutivos, recibir&aacute;s una recompensa gratuita de 700. &iexcl;Cuantas m&aacute;s veces inicies sesi&oacute;n, m&aacute;s recompensas recibir&aacute;s!</p>\n\n<p>*Por ejemplo: Un miembro que inicia sesi&oacute;n en Mexjoy y recarga para apostar en juegos, al finalizar 30 d&iacute;as consecutivos recibir&aacute; una recompensa gratuita de 700.</p>\n\n<p>***&iquest;C&oacute;mo iniciar sesi&oacute;n?</p>\n\n<p>Despu&eacute;s de iniciar sesi&oacute;n en tu cuenta todos los d&iacute;as, haz clic en &lsquo;registro diario&rsquo; en la esquina inferior derecha de la pantalla para completar la tarea de registro del d&iacute;a. &iexcl;Haz clic en registrar y recibir&aacute;s inmediatamente tu recompensa diaria!</p>\n\n<p>C&oacute;mo obtener premios:</p>\n\n<p>Los miembros recibir&aacute;n sus propias recompensas. Inicia sesi&oacute;n en tu cuenta el d&iacute;a del registro y selecciona &lsquo;iniciar sesi&oacute;n&rsquo; en la esquina inferior derecha de la pantalla para reclamar tu recompensa. Los derechos sobre el bono de horas extras se considerar&aacute;n inv&aacute;lidos.</p>\n\n<p>Entorno de trabajo:</p>\n\n<p>1. Todos los bonos deben apostarse al menos una vez para poder ser reclamados.</p>\n\n<p>2. Los miembros deben reclamar su recompensa dentro de las 24 horas despu&eacute;s de completar la tarea de registro. Los derechos sobre el bono de horas extras se considerar&aacute;n inv&aacute;lidos.</p>\n\n<p>3. Los miembros que hayan realizado apuestas fraudulentas o violado las reglas de la empresa no ser&aacute;n incluidos en la lista de bonos.</p>\n\n<p>4. &iexcl;Mexjoy se reserva el derecho de modificar, suspender o cancelar esta promoci&oacute;n en cualquier momento!</p>","configId":1092007,"configName":"Â¡Participa en la promociÃ³n diaria de MEXJOY!_1092007","type":"C","startTime":1754236800000,"endTime":1754323199000,"noExpiry":"Y","allowCycle":"Y","allowSkip":"N","requiredTurnover":1,"walletType":2,"txType":6131,"minimumClaimAmount":0,"maximumClaimAmount":0,"status":"A","createdBy":"aqi666","createdAt":1754299426000,"updatedBy":"aqi666","updatedAt":1755490842000,"dayCountClaimed":0,"budget":999888,"mobileVerified":null,"participant":"ALL","accomplishedFields":["mobile"],"mobileNumMatchType":"PRECISE","uniqueIp":null}]}
