@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:23:29 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+X-App-Trace-Id: bkmsse4249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: REWCEN3, REWARDPROMO3
+X-Elapsed-Time: 10
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3saRXVzlBj0DZ4BzqFkF4av752KHTnDfP%2FIckV3cOn01p1EixtjVytoLBT9fUDAgQhLokLiAQQU0PAmvcVsYvr6jV6fmJhzQgvKanQ%3D%3D"}]}
+Cf-Ray: 987827adfcb900e5-GRU
+
+{"success":true,"value":{"footer":{"count":1},"content":{"MISSION_MANUAL":{"count":0,"enabled":false},"LOGIN":{"count":0,"enabled":true},"REGISTER":{"count":0,"enabled":false},"MANUAL":{"count":0,"enabled":true},"SAVIOR":{"count":0,"enabled":false},"APP_DOWNLOAD":{"count":1,"enabled":true},"UPGRADE_BONUS":{"count":0,"enabled":true},"RAFFLE":{"count":0,"enabled":true},"TICKET":{"count":0,"enabled":true,"ticketDetails":[{"ticketType":"RAFFLE","ticketCount":0},{"ticketType":"GOLDEN_EGG","ticketCount":0},{"ticketType":"PRIZE_WHEEL","ticketCount":0},{"ticketType":"CASH_VOUCHER","ticketCount":0},{"ticketType":"GIFT_CODE","ticketCount":0},{"ticketType":"FREE_SPIN","ticketCount":0},{"ticketType":"TEMU","ticketCount":0},{"ticketType":"RED_PACKET_RAIN","ticketCount":0}],"hasClaimedTemuTicket":false},"REFERRAL":{"count":0,"enabled":true},"MISSION":{"count":0,"enabled":false},"SIGNUP":{"count":0,"enabled":false},"NEW_REGISTER":{"count":0,"enabled":false}}}}
