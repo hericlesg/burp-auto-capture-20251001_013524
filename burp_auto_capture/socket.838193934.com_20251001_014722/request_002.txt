@@ -1,0 +1,17 @@
+GET /rtmsg/854/5flqltf3/websocket HTTP/1.1
+Host: socket.838193934.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Sec-WebSocket-Version: 13
+Origin: https://www.mexjoy.net
+Sec-WebSocket-Key: zjM2Zw4QJBas/lLqCLN/kQ==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
