@@ -1,0 +1,12 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Wed, 01 Oct 2025 04:45:53 GMT
+Content-Type: application/json
+Content-Length: 840
+Cache-Control: private, max-age=531
+X-Request-Id: 5f506bd3953c4f829f6577cf6574c13a
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"suggestions":[{"title":"Weather for GoiÃ¢nia","url":"https://www.accuweather.com/pt/br/goiania/43599/current-weather/43599?lang=pt-br&partner=web_mozilla_adc","provider":"accuweather","is_sponsored":false,"score":0.3,"city_name":"GoiÃ¢nia","region_code":"Brazil","current_conditions":{"url":"https://www.accuweather.com/pt/br/goiania/43599/current-weather/43599?lang=pt-br&partner=web_mozilla_adc","summary":"CÃ©u claro","icon_id":33,"temperature":{"c":24,"f":75}},"forecast":{"url":"https://www.accuweather.com/pt/br/goiania/43599/daily-weather-forecast/43599?lang=pt-br&partner=web_mozilla_adc","summary":"Risco de desidrataÃ§Ã£o e insolaÃ§Ã£o em caso de atividades fÃ­sicas intensas Quarta-feira","high":{"c":35,"f":95},"low":{"c":20,"f":68}}}],"request_id":"5f506bd3953c4f829f6577cf6574c13a","client_variants":[],"server_variants":[]}
