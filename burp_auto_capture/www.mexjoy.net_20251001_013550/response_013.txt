@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Wed, 01 Oct 2025 01:23:29 GMT
+Content-Type: application/json
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+X-App-Trace-Id: tcf4cqq249
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: REWCEN3
+X-Elapsed-Time: 2
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https:; connect-src 'self' data: https: wss:; worker-src blob: https:; img-src 'self' data: https: blob:; frame-src 'self' https: kbzpay: wavepay:;
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2L4ciAsJlvIIILcugxP5%2BF4%2BntGf60UtjUgwr7REAawK90ZBh5%2FcQeAcL2I8PJr5sOtO78Q9LRxuMN%2FYktjy72azCROxuuMNE0%2BsjA%3D%3D"}]}
+Cf-Ray: 987827adfcb500e5-GRU
+
+{"success":true,"value":{"enable":false}}
